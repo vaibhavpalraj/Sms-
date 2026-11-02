@@ -1,0 +1,10 @@
+# ============================================
+# SMS Blast Bot — Python Dependencies
+# Python 3.10+ required
+# ============================================
+
+# --- Telegram Bot Framework ---
+aiogram>=3.7.0,<4.0.0
+
+# --- Async HTTP client (Firebase REST + Telegram raw API) ---
+aiohttp>=3.9.0,<4.0.0
